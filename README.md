@@ -12,6 +12,10 @@ npm install
 npm run serve
 ```
 
+![](https://alandodo-1315761622.cos.ap-beijing.myqcloud.com/blog/x287.jpg)
+
+![](https://alandodo-1315761622.cos.ap-beijing.myqcloud.com/blog/x288.jpg)
+
 ##  Features
 
 - **发布留言**：用户可以在留言墙上发布自己的留言或评论。每条留言包括作者信息、留言内容和发布时间。
